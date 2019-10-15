@@ -8,9 +8,9 @@ nicEe Nicee nIcee
 
 nicEe NICEe nicee 
 
-nICEE nICee nicEe NICEe NICEE niCEE nicee NICEe NICee 100 nicee nICEe niCEe nIcee
+nICEE nICee nicEe NICEe NICEE niCEE nicee NICEe NICee nice nicee nICEe niCEe nIcee
 
-if nICee NICEe niceE NiceE niCEe nIcee 
+Nice nICee NICEe niceE NiceE niCEe nIcee 
 
 NIceE nICee nIceE niCEe nicee niCee
 

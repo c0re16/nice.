@@ -21,4 +21,5 @@
 #define niCEE 0
 #define nICEE for
 #define NICEE =
-
+#define nice 100
+#define Nice if
