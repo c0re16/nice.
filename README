@@ -1,1 +1,7 @@
 Nice
+
+Usage
+cd Nice./
+make
+./nice
+
